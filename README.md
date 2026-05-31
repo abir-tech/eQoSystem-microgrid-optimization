@@ -16,11 +16,11 @@ Email: [a.boussahi@esi-sba.dz](mailto:a.boussahi@esi-sba.dz)
 
 Abir Chekroun
 Student @ ESI-SBA | Algeria
-Email: a.chekroun@esi-sba.dz[a.chekroun@esi-sba.dz](mailto:a.chekroun@esi-sba.dz)
+Email: [a.chekroun@esi-sba.dz](mailto:a.chekroun@esi-sba.dz)
 [LinkedIn](https://www.linkedin.com/in/abir-chekroun-a066b52a8/)
 
 Zakaria Lourghi AI Student @ ESI-SBA | Algeria
-Email: z.lourghi@esi-sba.dz [z.lourghi@esi-sba.dz](mailto:z.lourghi@esi-sba.dz)
+Email: [z.lourghi@esi-sba.dz](mailto:z.lourghi@esi-sba.dz)
 [LinkedIn](https://www.linkedin.com/in/zakaria-lourghi/)
 
 ## 🚀 Overview & Architecture
