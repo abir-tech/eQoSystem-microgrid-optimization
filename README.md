@@ -5,6 +5,7 @@
 Welcome to the official repositoty for the phase2 of the QCI challenge submission, which demonstrate the two-stage stochastic optimization framework to configure resilient microgrids via entropy quantum computing 
 
 Authors & Team Members:
+
 Ashraf Boussahi
 Research Intern @ CQTech (Constantine Quantum Technologies) | Algeria
 AI Student @ ESI-SBA | Algeria
