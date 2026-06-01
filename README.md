@@ -30,6 +30,7 @@ This framework models a power distribution network (validated on the IEEE 33-bus
 1. **Stage 1 — Islanding Sub-Problem ($H_{\text{island}}$):** Partitions the compromised topology into 4 independent, self-sustaining microgrid clusters using Spectral Graph Clustering based on the network's Fiedler vector.
 2. **Stage 2 — Dispatch Sub-Problem ($H_{\text{dispatch}}$):** Solves a higher-order integer unconstrained minimization problem to determine precise, discrete generation and storage setpoints across all active islands, simulated via a hybrid global-local **Dual Annealing** engine.
 
+The framework was thoroughly tested across **20 severe storm contingency scenarios** derived via Latin Hypercube Sampling from the ARPA-E GO Competition datasets. Our model achieved the following results on the **QCi Dirac-3 platform** compared to a standard legacy grid baseline (operating without dynamic islanding capabilities):
 ---
 <p align="center">
   <img src="./images/IEEE33_topology.png" width="750" alt="Grid Map">
