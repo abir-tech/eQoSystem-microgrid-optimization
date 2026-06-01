@@ -31,7 +31,13 @@ This framework models a power distribution network (validated on the IEEE 33-bus
 2. **Stage 2 — Dispatch Sub-Problem ($H_{\text{dispatch}}$):** Solves a higher-order integer unconstrained minimization problem to determine precise, discrete generation and storage setpoints across all active islands, simulated via a hybrid global-local **Dual Annealing** engine.
 
 ---
+<p align="center">
+  <img src="./images/IEEE33_topology.png" width="750" alt="Grid Map">
+</p>
 
+<p align="center">
+  <img src="./images/simulation_plots.png" width="900" alt="Simulation Results">
+</p>
 ## 🛠️ Installation & Setup
 
 Ensure you have Python 3.8+ installed. Clone this repository and install the dependencies:
