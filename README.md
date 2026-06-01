@@ -37,6 +37,6 @@ This framework models a power distribution network (validated on the IEEE 33-bus
 Ensure you have Python 3.8+ installed. Clone this repository and install the dependencies:
 
 ```bash
-git clone [https://github.com/abir-tech/resilient-microgrid-optimization.git](https://github.com/abir-tech/resilient-microgrid-optimization.git)
+git clone [https://github.com/abir-tech/eQoSystem-microgrid-optimization.git](https://github.com/abir-tech/eQoSystem-microgrid-optimization.git)
 cd YOUR_REPO_NAME
 pip install -r requirements.txt
